@@ -1,5 +1,5 @@
 # 🌍 World Happiness Score Predictor
-
+🔴 Live Web App: https://world-happiness-predictor-zjje5mzgp3r7zs26suc8sz.streamlit.app/
 ## 📌 Overview
 This project is an end-to-end Data Science workflow that analyzes the World Happiness Report (2015-2019) and uses a Machine Learning model to predict a country's happiness score based on its socio-economic indicators. It concludes with an interactive web application built using Streamlit.
 
